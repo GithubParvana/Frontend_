@@ -1,6 +1,8 @@
 .container {
     width: 450px;
     height: 88%;
+    /* yuxaridan asagi oxunur deye 1-ci oxuyur, sonra 2-cini oxuyur; !important elave edilende en vacibi olani secir */
+    /* background-color: blue !important;   */
     background-color: mediumslateblue;
     position: absolute;
     left: 100px;
@@ -14,7 +16,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     
-    
+   
   
 }
 
